@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page for travel 908",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Travel App 908"
+  },
+  "sections": [
+    {
+      "id": "SSECTION_908",
+      "title": "Section 908",
+      "visualizations": [
+        {
+          "id": "APP_DESCRIPTOR_ITEM_908",
+          "ladiAssignment": {
+            "ladiId": "ZRAP100_908_UI5R",
+            "tileId": "UI5R_5C2CF3551C9289530B6E7358AA7018A8660633B5_AL"
+          }
+        }
+      ]
+    }
+  ]
+}
